@@ -27,7 +27,7 @@ The project is structured as follows:
 
 1. Navigate to the project directory
 
-2. Install npm packages using the npm install command
+2. Install npm packages using the npm install command 
 
 3. Run the project using npm start. This runs the app in the development mode.
 
